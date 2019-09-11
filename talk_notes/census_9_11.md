@@ -2,7 +2,7 @@
 ### Center for Urban Research at CUNY Grad Center
 
 ## Overview
-- Website: [https://thecensusproject.org/]
+- Website: https://thecensusproject.org/
 - Community Mapping Assistance Program (CMAP) makes maps for data 
 - Census data used to determine federal budget allocation
     - allocate congressional/legistative representation 
