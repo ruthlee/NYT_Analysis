@@ -35,4 +35,4 @@
 
 ## Questions
 - how can we deploy resources most efficiently in self-response phase and afterwards in hard to count regions? 
-
+- A lot of people don't like filling questionairre online- would prefer paper. 
