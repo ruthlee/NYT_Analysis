@@ -23,3 +23,16 @@
     - children under 5
     - renter
     - etc.
+
+## Ways to go beyond
+- Excel list of tracts with detailed population estimates
+- compare tract data to pdf map of county/borough
+- spatial analysis, maybe using GIS (computer mapping software) 
+- HTC 2020 website has data download source for every state. 
+- Goals: analyzing information in different ways from traditional "get out the count" methods
+    - new insights to patterns
+- main challenge to getting a fair 2020 census is advocacy- advertising importance of census ppl
+
+## Questions
+- how can we deploy resources most efficiently in self-response phase and afterwards in hard to count regions? 
+
