@@ -43,4 +43,12 @@
 - Train a neural net to estimate correspondance of colors when things move 
     - input frame is greyscale, need to predict color from reference frame.
     - Copy and paste a color from a reference frame to the input frame 
-- Similarity matrix $A_{ij}$ 
+- machine tries to re-colorize a greyscale video 
+    - can start to TRACK OBJECTS
+    - pose tracking 
+
+### Sound learning
+- Can you use visual cues to inform sound recognition 
+    - e.g., if you see a lion you can identify a lion roar more easily
+- SoundNet takes in waveforms and predicts different categories
+
