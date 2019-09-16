@@ -25,4 +25,22 @@
 - Recent work: get computers to learn like babies
     - learn authentically, through random experimentation and varied sensory inputs
 - **Moravec's paradox**: easy to make computers exhibit adult-level performance on tests or checkers. Difficult/impossible to give a computer the perception/mobility skills of a one-year-old.
+    - machines can't even tell where a phone is if it's behind your back and you move.
 
+### Kitten carousel
+- kittens born in darkness
+    - one can't move
+    - one is strapped to harness around a carousel 
+    - after a while, turn on the lights and expose them to the same visual data
+    - remove kittens and perform intelligence tests
+- kitten who can move around and explore is smarter 
+    - so the machines are like the kitten who can't move
+
+### His research: Self Supervised Learning
+- Machines use themselves and environments to learn
+- Perception emerges from learning
+- Learning from unlabeled video
+- Train a neural net to estimate correspondance of colors when things move 
+    - input frame is greyscale, need to predict color from reference frame.
+    - Copy and paste a color from a reference frame to the input frame 
+- Similarity matrix $A_{ij}$ 
