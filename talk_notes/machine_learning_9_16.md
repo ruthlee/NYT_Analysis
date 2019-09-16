@@ -19,9 +19,10 @@
 - What happens next? Does enthusiasm wane or does it shoot up? 
 
 ### Recent developments. 
-- Adversarial images: can find a special pattern which can fool classifier into thinking an image is something that it's not
+- **Adversarial images**: can find a special pattern which can fool classifier into thinking an image is something that it's not
     - e.g., turtle's back has pattern which makes computer think it's a rifle
 - Classifiers trained by army of people providing examples.  
 - Recent work: get computers to learn like babies
     - learn authentically, through random experimentation and varied sensory inputs
-- *Moravec's paradox*: easy to make computers exhibit adult-level performance on tests or checkers. Difficult/impossible to give a computer the perception/mobility skills of a one-year-old.
+- **Moravec's paradox**: easy to make computers exhibit adult-level performance on tests or checkers. Difficult/impossible to give a computer the perception/mobility skills of a one-year-old.
+
