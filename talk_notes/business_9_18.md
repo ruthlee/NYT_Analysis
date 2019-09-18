@@ -26,7 +26,7 @@
         - I'd expect more information to lead to a thicker market, which then narrows margins. However, this pre-assumes that people all want to participate in all auctions. But there's no benefit for an advertiser to participate in an auction for someone who is not in the target audience. More information is not necessarily better. (In the market, market makers get commission for every trade they can put to market).
 - Click-through rate and conversion rate must be compared to benchmark 
     - does collective value of ads lead to impression? Which ads have most effect? 
-- ATTRIBUTION: what is the right value to assign to each ad? 
+- **ATTRIBUTION**: what is the right value to assign to each ad? 
     - last-click attribution: only last click gets attributed
     - uniform attribution: all ads touched are equally attributed
     - logistic attribution: increments of attribution based on logistic regression
@@ -36,3 +36,32 @@
 - supply side and demand side algorithmic support to provide pricing for publishers and for auction bidders
 - Advertisers must optimize their campaigns 
     - Dynamic programming/ learning on the fly to interact in many auctions
+- dynamic game, strategic interactions bw players 
+- How can you anticipate what advertisers/bidders will do? 
+    - publishers need to optimize while anticipating equilibrium behavior
+    - structural estimation models (econometrics) 
+- large teams in market design/ Core Data Science teams at Google, Facebook, etc.
+- **App Nexus** out of business school
+- **Nash Equilibrium** between advertisers and publishers 
+    - have to determine optimal auction 
+- Second price auction:
+    - Highest bidder wins, and pays second-higher bid
+    - Can build in features like "price reserves" to make sure publishers get enough money
+    - Good faith agreements between big advertisers/advertising services and publishers/ companies that want ads.
+- Push for transparancy in auctions
+    - auctions are first-price now (so less abstruse) 
+
+### On-Demand Transportation
+- Two-sided market
+    - customers are sensitive to delays and prices
+    - drivers are sensitive to prices
+- Questions of interest:
+    - How many cars should we have at any given period of time? 
+        - must provide incentives for drivers to make money (so they have an appropriate number of rides)
+        - Stochastic arrivals, randomness in origin-destination pairs 
+        - Queueing
+        - Dispatch decisions (large scale stochastic optimization)
+    - How to price each location of the city given current conditions? 
+        - mechanism to incentivize good distribution of drivers
+        - optimization: maximize money earned subject to drivers' incentives to relocate (given cost of relocating and surge prices upon relocating)
+
