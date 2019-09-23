@@ -5,3 +5,7 @@ Possible sources for technical nuggets.
     - https://pdfs.semanticscholar.org/df0e/dbfbc651d6e077a5e70bafc1fec23b174f30.pdf
 - A Corpus-Independent Feature Set for Style-Based Text Categorization (2003)
     - https://norek.pw/1556992139.pdf
+    - Use "stability" as a way to evaluate the efficiency of features for style analysis (fewer features are better)
+- A framework for authorship identification of online messages: Writing‐style features and classification techniques (2005)
+    - https://onlinelibrary.wiley.com/doi/full/10.1002/asi.20316
+    - Good overview of the field
