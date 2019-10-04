@@ -30,3 +30,20 @@
     - possibly use NLP package to get a bunch of features and rate which ones are most related to style
 - Run ML something
     - figure out technical nugget
+
+### Timeline
+- Get dataset by October 6
+    - articles + engagement metric
+    - automate getting URLs (Abram)
+    - figure out which engagement metrics are available and select one (Kyelee) 
+- Figure out features by October 13
+    - NLP package it (probably) 
+- Predict! 
+
+
+### 10/4/19
+- curl flag will follow redirect
+- Trump Twitter feed scraping 
+- curl -iL [t.co link] | grep ^location:
+    - slack for details
+- bitly code to engagement metric
