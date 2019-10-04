@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # 0b5d7183ed5b0fe51f443b53689c2a1a061de383
 # Bj9uhvjO131
