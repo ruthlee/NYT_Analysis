@@ -11,6 +11,8 @@
 
 dos2unix temp.txt
 
+sed '/^"/d' file
+
 echo "Getting rid of quotes"
 sed 's/.$//; s/^.//' twitlinks.txt > noquotes.txt
 
