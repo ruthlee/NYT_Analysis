@@ -9,6 +9,9 @@ Possible sources for technical nuggets.
 - A framework for authorship identification of online messages: Writing‐style features and classification techniques (2005)
     - https://onlinelibrary.wiley.com/doi/full/10.1002/asi.20316
     - Good overview of the field
+- Automatic Natural Language Style
+Classification and Transformation 
+    - https://pdfs.semanticscholar.org/acce/7ca7d40ea4c1ce870bd864b4e7f0194ca0ba.pdf
 
 Technical Sources
 - https://medium.com/@stpe/automating-link-tracking-using-bitly-for-digital-marketing-221706cb59ce
