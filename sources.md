@@ -15,3 +15,7 @@ Classification and Transformation
 
 Technical Sources
 - https://medium.com/@stpe/automating-link-tracking-using-bitly-for-digital-marketing-221706cb59ce
+- SVR Overview
+    - https://alex.smola.org/papers/2003/SmoSch03b.pdf
+    - http://wiki.icub.org/images/8/82/OnlineSVR_Thesis.pdf (written by an undergrad)
+    - https://www.quora.com/What-are-C-and-gamma-with-regards-to-a-support-vector-machine (good overview/summary)
