@@ -11,5 +11,7 @@ Of course, there are some caveats here. In terms of feature selection, there are
 The most relevant notebooks from the presentation ("Final_Presentation.pdf") are here: 
 
 [Scraping NYT article text given Twitter URLs](https://github.com/ruthlee/NYT_Analysis/blob/master/notebooks/article_scraping.ipynb)
+
 [Cleaning tokenized data and extracting features](https://github.com/ruthlee/NYT_Analysis/blob/master/notebooks/methods_features.ipynb)
+
 [Optimizing SVR with RBF Kernel and obtaining fit vs complexity plots](https://github.com/ruthlee/NYT_Analysis/blob/master/notebooks/rbf_kernel.ipynb)
