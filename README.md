@@ -8,7 +8,7 @@ We found that there is a weak but present signal in the data which indicate that
 
 Of course, there are some caveats here. In terms of feature selection, there are a million different avenues we didn't go down. Just to name a few, we didn't quantify order of parts of speech or n-grams, and we also could have looked at more features specific to journalistic writing- for example, metrics related to quotes in articles. While retweets are an accessible and convenient proxy for reader engagement, it would be nice to have something more tangible for the engagement metric such as average scroll depth or average time on the article site. Finally, in terms of model specific improvements, figuring out feature importance for the implicitly transformed data (rbf-kernel transformed data) would be a logical next step for analysis. 
 
-The most relevant notebooks from the presentation ("Final_Presentation.pdf") are here: 
+The most relevant notebooks from the presentation [Final_Presentation.pdf](https://github.com/ruthlee/NYT_Analysis/blob/master/Final_Presentation.pdf) are here: 
 
 [Scraping NYT article text given Twitter URLs](https://github.com/ruthlee/NYT_Analysis/blob/master/notebooks/article_scraping.ipynb)
 
