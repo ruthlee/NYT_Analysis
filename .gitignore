@@ -1,2 +1,17 @@
-.ipynb_checkpoints/
-temp.txt
+.DS_Store
+	.bashrc
+	.ipynb_checkpoints/
+	NLP_cleaner.ipynb
+	Untitled.ipynb
+	bash_scripts/.DS_Store
+	bash_scripts/temp.txt
+	bash_scripts/test_urls.txt
+	bash_scripts/with_quotes.txt
+	data/
+	notebooks/.DS_Store
+	notebooks/.ipynb_checkpoints/
+	speaking_points.aux
+	speaking_points.log
+	speaking_points.synctex.gz
+	speaking_points.tex
+
