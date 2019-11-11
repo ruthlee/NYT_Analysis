@@ -1,4 +1,4 @@
-# Final Project for APAM 4903 Senior Applied Math Seminar
+# Impact of Style on New York Times Article Engagement 
 
 This project is a collaboration between myself and [abram6](https://github.com/abram6) for our project for [APAM4903](http://www.columbia.edu/cu/bulletin/uwb/#/cu/bulletin/uwb/subj/APMA/E4903-20193-001/), which is essentially a capstone project for completing the Applied Math major at Columbia University.
 
