@@ -15,3 +15,7 @@ The most relevant notebooks from the presentation [Final_Presentation.pdf](https
 [Cleaning tokenized data and extracting features](https://github.com/ruthlee/NYT_Analysis/blob/master/notebooks/methods_features.ipynb)
 
 [Optimizing SVR with RBF Kernel and obtaining fit vs complexity plots](https://github.com/ruthlee/NYT_Analysis/blob/master/notebooks/rbf_kernel.ipynb)
+
+And further explorations of the data beyond the scope of the final presentation:
+
+[SVR Analysis of articles related to a specific topic (e.g., Trump, China)](https://github.com/ruthlee/NYT_Analysis/blob/master/notebooks/rbf_explorations.ipynb)
