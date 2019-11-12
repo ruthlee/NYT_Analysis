@@ -15,3 +15,6 @@ speaking_points.log
 speaking_points.synctex.gz
 speaking_points.tex
 talk_notes
+notebooks/bitly_to_full.ipynb
+notebooks/complexity_v_tau.jpg
+notebooks/scraping_bitly.ipynb
